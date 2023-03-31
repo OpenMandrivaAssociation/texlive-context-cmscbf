@@ -1,6 +1,6 @@
 Name:		texlive-context-cmscbf
 Version:	47085
-Release:	1
+Release:	2
 Summary:	Use Computer Modern bold Caps and Small-caps in ConTeXt
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-cmscbf
