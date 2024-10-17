@@ -3,7 +3,7 @@ Version:	47085
 Release:	2
 Summary:	Use Computer Modern bold Caps and Small-caps in ConTeXt
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-cmscbf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/context-cmscbf
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-cmscbf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-cmscbf.doc.r%{version}.tar.xz
